@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <link rel="icon" type="image/png" sizes="32x32" href="./assets/favicon-32x32.png">
+  <link rel="stylesheet" href="./css/style.css">
+  <title>Galleria slideshow site</title>
+</head>
+
+<body>
+
+  <div class="popup">
+    <div class="popup__inner">
+      <button class="popup__btn" id="popupClose">Close</button>
+    </div>
+  </div>
+
+  <header class="header">
+    <nav class="header__container">
+      <a href="/"><img src="./assets/shared/logo.svg" alt="logo"></a>
+      <a class="header__btn" id="slideshowBtn" href="/Galleria/index.html">Stop Slideshow</a>
+    </nav>
+  </header>
+
+  <main class="main">
+    <div class="main__container">
+
+      <section class="section__inner-info">
+        <div class="info__inner-left">
+          <article class="info__item" id="artItemInfo">
+            <button class="view__btn" id="openPopup">View Image</button>
+          </article>
+          <div class="left__info">
+            <p class="info__art-name"></p>
+            <p class="info__art-author"></p>
+          </div>
+          <div class="info__author-img"></div>
+        </div>
+
+        <div class="info__inner-right">
+          <p class="info__date"></p>
+          <div class="info__block-text">
+            <p class="info__text"></p>
+          </div>
+        </div>
+      </section>
+
+
+    </div>
+  </main>
+
+  <div class="progress">
+    <div class="progress__bar"></div>
+  </div>
+
+  <footer class="footer">
+    <div class="footer__container">
+
+      <div class="footer__inner">
+        <div>
+          <p class="footer__art"></p>
+          <p class="footer__author"></p>
+        </div>
+        <div class="footer__inner-btns">
+          <button class="prev slide__btn"></button>
+          <button class="next slide__btn"></button>
+        </div>
+      </div>
+
+    </div class="container">
+  </footer>
+
+  <script src="./js/art_page.js"></script>
+</body>
+
+</html>

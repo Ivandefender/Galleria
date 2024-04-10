@@ -1,12 +1,12 @@
 <h1 align="center">GALLERIA SLIDESHOW SITE</h1>
 
 <p align="center">
-<img src="https://img.shields.io/badge/HTML-50%25-orange">
-<img src="https://img.shields.io/badge/CSS-50%25-blue">
-<img src="https://img.shields.io/badge/JS-50%25-yellow">
+<img src="https://img.shields.io/badge/HTML-orange">
+<img src="https://img.shields.io/badge/CSS-blue">
+<img src="https://img.shields.io/badge/JS-yellow">
 <p>
 
-# [View a demo](https://silent-lad.github.io/Vue2BaremetricsCalendar/#/)
+# [SITE](https://ivandefender.github.io/Galleria/index.html)
 
 # Start HTML
 
@@ -16,7 +16,7 @@
 
 Основна сторінка з набором картин, з якими можна взаємодіяти
 
-![index]()
+![index](./index.png "main_page")
 
 ## Start Header
 
@@ -42,6 +42,8 @@
 # End index.html
 
 # Start art_page.html
+
+![art](./template.png "template_page (art)")
 
 Шаблонна сторінка на яку підвантажуються дані про певну картину
 

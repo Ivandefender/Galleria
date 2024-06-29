@@ -1,8 +1,8 @@
 <h1 align="center">GALLERIA SLIDESHOW SITE</h1>
 
 <div align="center">
-    <a href="">View Project |</a>
-    <a href="">View Code</a>
+ <a href="https://ivandefender.github.io/Galleria/index.html">View Project |</a>
+ <a href="https://github.com/Ivandefender/Galleria/blob/main/js/art_page.js">View Code</a>
 </div>
 
 <p align="center">
@@ -199,6 +199,6 @@ prevBtn.addEventListener("click", () => {
 
 # End JS
 
-### Дизайн був взятий з [FrontendMentor.io](https://www.frontendmentor.io/challenges/frontend-quiz-app-BE7xkzXQnU);
+### Дизайн був взятий з [FrontendMentor.io](https://www.frontendmentor.io/challenges/galleria-slideshow-site-tEA4pwsa6);
 
 ### Розробив: [Ivan Krysak (github: Ivandefender)](https://github.com/Ivandefender);

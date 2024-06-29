@@ -11,8 +11,6 @@
 <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=JavaScript&logoColor=yellow&labelColor=black">
 </p>
 
-# [SITE](https://ivandefender.github.io/Galleria/index.html)
-
 # Start HTML
 
 ## **Є два файли HTML-** index.html та art_page.html:

@@ -1,10 +1,15 @@
 <h1 align="center">GALLERIA SLIDESHOW SITE</h1>
 
+<div align="center">
+    <a href="">View Project |</a>
+    <a href="">View Code</a>
+</div>
+
 <p align="center">
-<img src="https://img.shields.io/badge/HTML-orange">
-<img src="https://img.shields.io/badge/CSS-blue">
-<img src="https://img.shields.io/badge/JS-yellow">
-<p>
+<img src="https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html&logoColor=orange">
+<img src="https://img.shields.io/badge/css-blue?style=for-the-badge&logo=css&logoColor=blue">
+<img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=JavaScript&logoColor=yellow&labelColor=black">
+</p>
 
 # [SITE](https://ivandefender.github.io/Galleria/index.html)
 
@@ -193,3 +198,7 @@ prevBtn.addEventListener("click", () => {
 ```
 
 # End JS
+
+### Дизайн був взятий з [FrontendMentor.io](https://www.frontendmentor.io/challenges/frontend-quiz-app-BE7xkzXQnU);
+
+### Розробив: [Ivan Krysak (github: Ivandefender)](https://github.com/Ivandefender);

@@ -2,7 +2,7 @@
 
 <div align="center">
  <a href="https://ivandefender.github.io/Galleria/index.html">View Project |</a>
- <a href="https://github.com/Ivandefender/Galleria/blob/main/js/art_page.js">View Code</a>
+ <a href="https://github.com/Ivandefender/Galleria">View Code</a>
 </div>
 
 <p align="center">
